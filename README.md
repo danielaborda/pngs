@@ -14,4 +14,5 @@
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2013"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2013-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2014"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2014-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/Ise515/Microcontroladores/tree/main/Pr%C3%A1ctica%2015%20%2BProyecto"><img src="https://img.shields.io/badge/Pr%C3%A1ctica%2015%20%2B%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>shields.io/badge/Pr%C3%A1ctica%2015%20%2B%20Proyecto-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
